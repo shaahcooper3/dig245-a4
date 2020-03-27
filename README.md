@@ -5,7 +5,7 @@
 - Create one or more wireframes created using [Balsamiq](https://balsamiq.com/) (or similar wireframing tool).  Produce at least 3 iterations (versions) of a small project design. Research similar designs and try new things out. Make sure to use real content in the design.
 - You can also use a piece of paper and pen/pencil. Take a picture of the wireframe and put it in your copy of the repository.
 - Save these designs to the `wireframes` folder
-- Evaluate and choose a CSS framework from an [awesome list](https://project-awesome.org/troxler/awesome-css-frameworks) or [a naive search](https://www.google.com/search?q=css+framework).  If you prefer a recommendation, consider [Semantic UI](http://semantic-ui.com).
+- Evaluate and choose a CSS framework from an [awesome list](https://project-awesome.org/troxler/awesome-css-frameworks) or [a naive search](https://www.google.com/search?q=css+framework).  If you prefer a recommendation, consider [Twitter Bootstrap](https://getbootstrap.com/). Twitter Bootstrap has its own aesthetic, so if you want something less opinionated look at [Bulma](https://bulma.io/) or [Pure.css](https://purecss.io/).
 - Code up the design using HTML and the CSS framework you chose.
 - Confirm your page uses valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
 - Save HTML files to `public`, CSS to `public/css` and images to `public/img`
